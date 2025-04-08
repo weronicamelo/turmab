@@ -1,0 +1,32 @@
+
+MANIPULAÇÃO DE PASTAS E ARQUIVOS 
+
+Para criar uma pasta: mkdir nome da pasta 
+
+Renomear pasta: mv nome-atual e nome-novo 
+
+Mover uma pasta: mv end/pasta/antiga end/pasta/nova 
+
+Remover uma pasta: rmdir nome da pasta 
+
+Remover pasta com arquivos: rm-r nome da pasta 
+
+Criar uma pasta com arquivo: mkdir nome da pasta && cd nome-da-pasta && touch nome-do-arquivo.txt 
+
+Criar arquivo com conteúdo: echo "conteúdo" > nome-do-arquivo.txt 
+
+Criar arquivo vazio: touch nome-da-pasta 
+
+Renomear arquivo: mv nome-atual.txt  nome-novo.txt 
+
+Mover arquivo: mv end/atual/arquivo   end/novo/arquivo 
+
+Copiar arquivo: cp nome-do-arquivo.txt   caminho/destino/ 
+
+Copiar uma pasta: cp –r nome-da-pasta   caminho/destino 
+
+Pwd: retorna o caminho aberto no Git Bash 
+
+Clear: limpa o terminal do GitBash ou CTRL + L 
+
+Exit: fecha o terminal do Git ou ALT + F4 
